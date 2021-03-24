@@ -1,0 +1,6 @@
+const chalk = require(`chalk`)
+console.log(chalk.bgBlackBright("Rodrigo"))
+console.log(chalk.magenta("Pikoleeena"))
+console.log(chalk.green("Hulkgo"))
+console.log(chalk.redBright("Philipi"))
+console.log(chalk.bgCyanBright("Peter"))
